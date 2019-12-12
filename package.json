@@ -1,7 +1,7 @@
 {
   "name": "FriendFinder",
   "version": "1.0.0",
-  "description": "Northwestern Coding Bootcamp Spring 2018 Homework Assignment Week13: Express",
+  "description": "Homework",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,15 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RyanOliverSotto/FriendFinder.git"
+    "url": "https://github.com/ajayh2/node-express-handlebars-hw"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/RyanOliverSotto/FriendFinder/issues"
-  },
-  "homepage": "https://github.com/RyanOliverSotto/FriendFinder#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
